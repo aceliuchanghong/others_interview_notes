@@ -3,10 +3,6 @@ LLMs interview notes and answers
 
 ## **内容说明**
 
-问题来自 [LLMs 千面郎君： km1994 - LLMs_interview_notes ](https://github.com/km1994/LLMs_interview_notes)
-
-**答案 为 自己编写，不保证正确，仅供参考。**
-
 **有些问题，提供的答案更多是一种线索，如想深入了解，请自行参考更多资料**
 
 ## 更新记录
